@@ -1,9 +1,6 @@
 Exegete
 
-Exegete is a set of tools for writing articles about code. Since articles and code are both text, Exegete can be
-thought of as a text generator.  Its mandate subsumes static blog and site generation, literate programming tools,
-static code analysis tools, disassembers and decompilers (to a certain extent), and ... anything else I end up
-finding useful for writing articles about code (including just writing code).
+Exegete is a set of tools for writing articles about code. Since articles and code are both text, Exegete can be thought of as a text generator.  Its mandate subsumes static blog and site generation, literate programming tools, static code analysis tools, disassembers and decompilers (to a certain extent), and ... anything else I end up finding useful for writing articles about code (including just writing code).
 
 INSTALLATION AND SUPPORT
 
