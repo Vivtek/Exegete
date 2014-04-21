@@ -1,0 +1,11 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use lib './_exeg-lib';
+
+use App::Exegete;
+
+my $shell = App::Exegete->new();
+
+$shell->do(@ARGV);
